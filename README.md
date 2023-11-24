@@ -1,5 +1,5 @@
 # Projeto Wiki/blog
-Criação de um site (blog) com aplicação de HTML, Markdown, Flask, Flask-Frozen etc.
+Criação de um site (blog) com aplicação de HTML, Markdown, Flask, Frozen-Flask etc.
 
 **Instituição:** Ada Tech
 
